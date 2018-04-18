@@ -1,0 +1,276 @@
+2018-04-10 14:28:08,601 [main] DEBUG  - Terminating processes
+2018-04-10 14:28:08,684 [main] INFO   - No firefox process running
+2018-04-10 14:28:08,692 [main] INFO   - No firefox process running
+2018-04-10 14:28:08,701 [main] INFO   - 42128
+2018-04-10 14:28:08,702 [main] INFO   - Trying to kill process with pid (s): [42128]
+2018-04-10 14:28:08,711 [main] INFO   - No firefox process running
+2018-04-10 14:28:08,714 [main] INFO   - path: Properties/Common/common-properties.xml
+2018-04-10 14:29:28,911 [main] INFO   - Connected
+2018-04-10 14:29:28,969 [Thread-0] INFO   - a
+2018-04-10 14:29:28,970 [Thread-0] INFO   - d
+2018-04-10 14:29:28,970 [Thread-0] INFO   - m
+2018-04-10 14:29:28,970 [Thread-0] INFO   - i
+2018-04-10 14:29:28,970 [Thread-0] INFO   - n
+2018-04-10 14:29:28,971 [Thread-0] INFO   - 
+2018-04-10 14:29:28,971 [Thread-0] INFO   - 
+
+2018-04-10 14:29:28,971 [Thread-0] INFO   - B
+2018-04-10 14:29:28,971 [Thread-0] INFO   - C
+2018-04-10 14:29:28,971 [Thread-0] INFO   - M
+2018-04-10 14:29:28,971 [Thread-0] INFO   - 9
+2018-04-10 14:29:28,972 [Thread-0] INFO   - 6
+2018-04-10 14:29:28,972 [Thread-0] INFO   - 3
+2018-04-10 14:29:28,972 [Thread-0] INFO   - 2
+2018-04-10 14:29:28,972 [Thread-0] INFO   - 6
+2018-04-10 14:29:28,972 [Thread-0] INFO   - 8
+2018-04-10 14:29:28,972 [Thread-0] INFO   -  
+2018-04-10 14:29:28,973 [Thread-0] INFO   - B
+2018-04-10 14:29:28,973 [Thread-0] INFO   - r
+2018-04-10 14:29:28,973 [Thread-0] INFO   - o
+2018-04-10 14:29:28,973 [Thread-0] INFO   - a
+2018-04-10 14:29:28,973 [Thread-0] INFO   - d
+2018-04-10 14:29:28,973 [Thread-0] INFO   - b
+2018-04-10 14:29:28,973 [Thread-0] INFO   - a
+2018-04-10 14:29:28,973 [Thread-0] INFO   - n
+2018-04-10 14:29:28,974 [Thread-0] INFO   - d
+2018-04-10 14:29:28,974 [Thread-0] INFO   -  
+2018-04-10 14:29:28,974 [Thread-0] INFO   - R
+2018-04-10 14:29:28,974 [Thread-0] INFO   - o
+2018-04-10 14:29:28,974 [Thread-0] INFO   - u
+2018-04-10 14:29:28,975 [Thread-0] INFO   - t
+2018-04-10 14:29:28,975 [Thread-0] INFO   - e
+2018-04-10 14:29:28,975 [Thread-0] INFO   - r
+2018-04-10 14:29:28,975 [Thread-0] INFO   - 
+2018-04-10 14:29:28,975 [Thread-0] INFO   - 
+
+2018-04-10 14:29:28,975 [Thread-0] INFO   - L
+2018-04-10 14:29:28,975 [Thread-0] INFO   - o
+2018-04-10 14:29:28,975 [Thread-0] INFO   - g
+2018-04-10 14:29:28,975 [Thread-0] INFO   - i
+2018-04-10 14:29:28,975 [Thread-0] INFO   - n
+2018-04-10 14:29:28,976 [Thread-0] INFO   - :
+2018-04-10 14:29:28,976 [Thread-0] INFO   -  
+2018-04-10 14:29:29,007 [Thread-0] INFO   - P
+2018-04-10 14:29:29,007 [Thread-0] INFO   - a
+2018-04-10 14:29:29,007 [Thread-0] INFO   - s
+2018-04-10 14:29:29,007 [Thread-0] INFO   - s
+2018-04-10 14:29:29,007 [Thread-0] INFO   - w
+2018-04-10 14:29:29,007 [Thread-0] INFO   - o
+2018-04-10 14:29:29,007 [Thread-0] INFO   - r
+2018-04-10 14:29:29,008 [Thread-0] INFO   - d
+2018-04-10 14:29:29,008 [Thread-0] INFO   - :
+2018-04-10 14:29:29,008 [Thread-0] INFO   -  
+2018-04-10 14:29:29,913 [Thread-0] INFO   - 
+2018-04-10 14:29:29,914 [Thread-0] INFO   - 
+
+2018-04-10 14:29:29,915 [Thread-0] INFO   -  
+2018-04-10 14:29:29,915 [Thread-0] INFO   - >
+2018-04-10 14:29:29,915 [Thread-0] INFO   -  
+2018-04-10 14:29:30,916 [Thread-0] INFO   - e
+2018-04-10 14:29:30,916 [Thread-0] INFO   - c
+2018-04-10 14:29:30,916 [Thread-0] INFO   - h
+2018-04-10 14:29:30,917 [Thread-0] INFO   - o
+2018-04-10 14:29:30,917 [Thread-0] INFO   -  
+2018-04-10 14:29:30,917 [Thread-0] INFO   - '
+2018-04-10 14:29:30,917 [Thread-0] INFO   - /
+2018-04-10 14:29:30,917 [Thread-0] INFO   - v
+2018-04-10 14:29:30,917 [Thread-0] INFO   - a
+2018-04-10 14:29:30,917 [Thread-0] INFO   - r
+2018-04-10 14:29:30,918 [Thread-0] INFO   - /
+2018-04-10 14:29:30,918 [Thread-0] INFO   - a
+2018-04-10 14:29:30,918 [Thread-0] INFO   - u
+2018-04-10 14:29:30,918 [Thread-0] INFO   - x
+2018-04-10 14:29:30,918 [Thread-0] INFO   - f
+2018-04-10 14:29:30,918 [Thread-0] INFO   - s
+2018-04-10 14:29:30,918 [Thread-0] INFO   - /
+2018-04-10 14:29:30,918 [Thread-0] INFO   - c
+2018-04-10 14:29:30,919 [Thread-0] INFO   - o
+2018-04-10 14:29:30,919 [Thread-0] INFO   - r
+2018-04-10 14:29:30,919 [Thread-0] INFO   - e
+2018-04-10 14:29:30,919 [Thread-0] INFO   - _
+2018-04-10 14:29:30,919 [Thread-0] INFO   - %
+2018-04-10 14:29:30,919 [Thread-0] INFO   - e
+2018-04-10 14:29:30,920 [Thread-0] INFO   - %
+2018-04-10 14:29:30,920 [Thread-0] INFO   - '
+2018-04-10 14:29:30,920 [Thread-0] INFO   -  
+2018-04-10 14:29:30,920 [Thread-0] INFO   - >
+2018-04-10 14:29:30,920 [Thread-0] INFO   -  
+2018-04-10 14:29:30,921 [Thread-0] INFO   - /
+2018-04-10 14:29:30,921 [Thread-0] INFO   - p
+2018-04-10 14:29:30,921 [Thread-0] INFO   - r
+2018-04-10 14:29:30,921 [Thread-0] INFO   - o
+2018-04-10 14:29:30,921 [Thread-0] INFO   - c
+2018-04-10 14:29:30,921 [Thread-0] INFO   - /
+2018-04-10 14:29:30,922 [Thread-0] INFO   - s
+2018-04-10 14:29:30,922 [Thread-0] INFO   - y
+2018-04-10 14:29:30,922 [Thread-0] INFO   - s
+2018-04-10 14:29:30,922 [Thread-0] INFO   - /
+2018-04-10 14:29:30,922 [Thread-0] INFO   - k
+2018-04-10 14:29:30,922 [Thread-0] INFO   - e
+2018-04-10 14:29:30,922 [Thread-0] INFO   - r
+2018-04-10 14:29:30,922 [Thread-0] INFO   - n
+2018-04-10 14:29:30,923 [Thread-0] INFO   - e
+2018-04-10 14:29:30,926 [Thread-0] INFO   - l
+2018-04-10 14:29:30,927 [Thread-0] INFO   - /
+2018-04-10 14:29:30,927 [Thread-0] INFO   - c
+2018-04-10 14:29:30,927 [Thread-0] INFO   - o
+2018-04-10 14:29:30,927 [Thread-0] INFO   - r
+2018-04-10 14:29:30,927 [Thread-0] INFO   - e
+2018-04-10 14:29:30,927 [Thread-0] INFO   - _
+2018-04-10 14:29:30,927 [Thread-0] INFO   - p
+2018-04-10 14:29:30,927 [Thread-0] INFO   - a
+2018-04-10 14:29:30,928 [Thread-0] INFO   - t
+2018-04-10 14:29:30,928 [Thread-0] INFO   - t
+2018-04-10 14:29:30,928 [Thread-0] INFO   - e
+2018-04-10 14:29:30,928 [Thread-0] INFO   - r
+2018-04-10 14:29:30,928 [Thread-0] INFO   - n
+2018-04-10 14:29:30,928 [Thread-0] INFO   - 
+2018-04-10 14:29:30,928 [Thread-0] INFO   - 
+
+2018-04-10 14:29:30,959 [Thread-0] INFO   -  
+2018-04-10 14:29:30,959 [Thread-0] INFO   - >
+2018-04-10 14:29:30,959 [Thread-0] INFO   -  
+2018-04-10 14:29:31,919 [Thread-0] INFO   - c
+2018-04-10 14:29:31,919 [Thread-0] INFO   - a
+2018-04-10 14:29:31,919 [Thread-0] INFO   - t
+2018-04-10 14:29:31,919 [Thread-0] INFO   -  
+2018-04-10 14:29:31,920 [Thread-0] INFO   - /
+2018-04-10 14:29:31,920 [Thread-0] INFO   - p
+2018-04-10 14:29:31,920 [Thread-0] INFO   - r
+2018-04-10 14:29:31,920 [Thread-0] INFO   - o
+2018-04-10 14:29:31,920 [Thread-0] INFO   - c
+2018-04-10 14:29:31,920 [Thread-0] INFO   - /
+2018-04-10 14:29:31,920 [Thread-0] INFO   - s
+2018-04-10 14:29:31,920 [Thread-0] INFO   - y
+2018-04-10 14:29:31,920 [Thread-0] INFO   - s
+2018-04-10 14:29:31,921 [Thread-0] INFO   - /
+2018-04-10 14:29:31,921 [Thread-0] INFO   - k
+2018-04-10 14:29:31,921 [Thread-0] INFO   - e
+2018-04-10 14:29:31,921 [Thread-0] INFO   - r
+2018-04-10 14:29:31,921 [Thread-0] INFO   - n
+2018-04-10 14:29:31,921 [Thread-0] INFO   - e
+2018-04-10 14:29:31,921 [Thread-0] INFO   - l
+2018-04-10 14:29:31,922 [Thread-0] INFO   - /
+2018-04-10 14:29:31,922 [Thread-0] INFO   - c
+2018-04-10 14:29:31,922 [Thread-0] INFO   - o
+2018-04-10 14:29:31,922 [Thread-0] INFO   - r
+2018-04-10 14:29:31,922 [Thread-0] INFO   - e
+2018-04-10 14:29:31,922 [Thread-0] INFO   - _
+2018-04-10 14:29:31,922 [Thread-0] INFO   - p
+2018-04-10 14:29:31,922 [Thread-0] INFO   - a
+2018-04-10 14:29:31,922 [Thread-0] INFO   - t
+2018-04-10 14:29:31,923 [Thread-0] INFO   - t
+2018-04-10 14:29:31,923 [Thread-0] INFO   - e
+2018-04-10 14:29:31,923 [Thread-0] INFO   - r
+2018-04-10 14:29:31,923 [Thread-0] INFO   - n
+2018-04-10 14:29:31,923 [Thread-0] INFO   - 
+2018-04-10 14:29:31,923 [Thread-0] INFO   - 
+
+2018-04-10 14:29:31,943 [Thread-0] INFO   - /
+2018-04-10 14:29:31,944 [Thread-0] INFO   - v
+2018-04-10 14:29:31,944 [Thread-0] INFO   - a
+2018-04-10 14:29:31,944 [Thread-0] INFO   - r
+2018-04-10 14:29:31,944 [Thread-0] INFO   - /
+2018-04-10 14:29:31,944 [Thread-0] INFO   - a
+2018-04-10 14:29:31,944 [Thread-0] INFO   - u
+2018-04-10 14:29:31,945 [Thread-0] INFO   - x
+2018-04-10 14:29:31,945 [Thread-0] INFO   - f
+2018-04-10 14:29:31,945 [Thread-0] INFO   - s
+2018-04-10 14:29:31,945 [Thread-0] INFO   - /
+2018-04-10 14:29:31,945 [Thread-0] INFO   - c
+2018-04-10 14:29:31,945 [Thread-0] INFO   - o
+2018-04-10 14:29:31,945 [Thread-0] INFO   - r
+2018-04-10 14:29:31,945 [Thread-0] INFO   - e
+2018-04-10 14:29:31,945 [Thread-0] INFO   - _
+2018-04-10 14:29:31,945 [Thread-0] INFO   - %
+2018-04-10 14:29:31,945 [Thread-0] INFO   - e
+2018-04-10 14:29:31,945 [Thread-0] INFO   - %
+2018-04-10 14:29:31,945 [Thread-0] INFO   - 
+2018-04-10 14:29:31,945 [Thread-0] INFO   - 
+
+2018-04-10 14:29:31,957 [Thread-0] INFO   -  
+2018-04-10 14:29:31,957 [Thread-0] INFO   - >
+2018-04-10 14:29:31,957 [Thread-0] INFO   -  
+2018-04-10 14:32:57,969 [main] INFO   - 
+2018-04-10 14:33:19,726 [main] DEBUG  - Terminating processes
+2018-04-10 14:33:19,810 [main] INFO   - No firefox process running
+2018-04-10 14:33:19,819 [main] INFO   - No firefox process running
+2018-04-10 14:33:19,828 [main] INFO   - No firefox process running
+2018-04-10 14:33:19,837 [main] INFO   - No firefox process running
+2018-04-10 14:33:19,841 [main] INFO   - path: Properties/Common/common-properties.xml
+2018-04-10 14:34:40,014 [main] DEBUG  - BASE URL:http://admin:sky@192.168.0.2/sky_index.html
+2018-04-10 14:34:40,014 [main] DEBUG  - ************Opening The Browser******************
+2018-04-10 14:35:40,015 [main] INFO   - =============================================
+2018-04-10 14:35:40,015 [main] INFO   - 
+2018-04-10 14:35:40,015 [main] INFO   - [2] ========= [ Test Case Id : GUI-SPEC-4 ]========= [ Testcase Name : Requiremnet ID :1000.0552: The product shall provide a summary status page ] =========
+2018-04-10 14:35:40,015 [main] INFO   - 
+2018-04-10 14:36:58,988 [main] DEBUG  - Terminating processes
+2018-04-10 14:36:59,070 [main] INFO   - No firefox process running
+2018-04-10 14:36:59,080 [main] INFO   - No firefox process running
+2018-04-10 14:36:59,089 [main] INFO   - No firefox process running
+2018-04-10 14:36:59,098 [main] INFO   - No firefox process running
+2018-04-10 14:36:59,101 [main] INFO   - path: Properties/Common/common-properties.xml
+2018-04-10 14:38:19,277 [main] DEBUG  - BASE URL:http://admin:sky@192.168.0.2/sky_index.html
+2018-04-10 14:38:19,277 [main] DEBUG  - ************Opening The Browser******************
+2018-04-10 14:39:19,278 [main] INFO   - =============================================
+2018-04-10 14:39:19,278 [main] INFO   - 
+2018-04-10 14:39:19,278 [main] INFO   - [2] ========= [ Test Case Id : GUI-SPEC-4 ]========= [ Testcase Name : Requiremnet ID :1000.0552: The product shall provide a summary status page ] =========
+2018-04-10 14:39:19,278 [main] INFO   - 
+2018-04-10 14:41:43,552 [main] DEBUG  - Terminating processes
+2018-04-10 14:41:43,637 [main] INFO   - No firefox process running
+2018-04-10 14:41:43,647 [main] INFO   - No firefox process running
+2018-04-10 14:41:43,655 [main] INFO   - No firefox process running
+2018-04-10 14:41:43,665 [main] INFO   - No firefox process running
+2018-04-10 14:41:43,668 [main] INFO   - path: Properties/Common/common-properties.xml
+2018-04-10 14:43:03,844 [main] DEBUG  - BASE URL:http://admin:sky@192.168.0.2/sky_index.html
+2018-04-10 14:43:03,844 [main] DEBUG  - ************Opening The Browser******************
+2018-04-10 14:44:03,845 [main] INFO   - =============================================
+2018-04-10 14:44:03,845 [main] INFO   - 
+2018-04-10 14:44:03,845 [main] INFO   - [2] ========= [ Test Case Id : GUI-SPEC-4 ]========= [ Testcase Name : Requiremnet ID :1000.0552: The product shall provide a summary status page ] =========
+2018-04-10 14:44:03,845 [main] INFO   - 
+2018-04-10 14:53:27,498 [main] DEBUG  - Terminating processes
+2018-04-10 14:53:27,583 [main] INFO   - No firefox process running
+2018-04-10 14:53:27,591 [main] INFO   - No firefox process running
+2018-04-10 14:53:27,601 [main] INFO   - 26854
+2018-04-10 14:53:27,602 [main] INFO   - Trying to kill process with pid (s): [26854]
+2018-04-10 14:53:27,611 [main] INFO   - No firefox process running
+2018-04-10 14:53:27,615 [main] INFO   - path: Properties/Common/common-properties.xml
+2018-04-10 14:53:27,865 [main] DEBUG  - indexUrl :http://admin:sky@192.168.0.2/sky_index.html
+2018-04-10 14:54:51,125 [main] DEBUG  - ************Opening The Browser******************
+2018-04-10 14:55:51,126 [main] INFO   - =============================================
+2018-04-10 14:55:51,126 [main] INFO   - 
+2018-04-10 14:55:51,126 [main] INFO   - [2] ========= [ Test Case Id : GUI-SPEC-4 ]========= [ Testcase Name : Requiremnet ID :1000.0552: The product shall provide a summary status page ] =========
+2018-04-10 14:55:51,127 [main] INFO   - 
+2018-04-10 14:55:51,199 [main] INFO   -  ==== [ Test Case Id : GUI-SPEC-4 ]==== [ Testcase Name : Requiremnet ID :1000.0552: The product shall provide a summary status page ] ====PASS
+
+2018-04-10 14:56:40,458 [main] DEBUG  - Terminating processes
+2018-04-10 14:56:40,539 [main] INFO   - 27231
+2018-04-10 14:56:40,540 [main] INFO   - Trying to kill process with pid (s): [27231]
+2018-04-10 14:56:40,550 [main] INFO   - No firefox process running
+2018-04-10 14:56:40,563 [main] INFO   - 27217
+2018-04-10 14:56:40,563 [main] INFO   - Trying to kill process with pid (s): [27217]
+2018-04-10 14:56:40,572 [main] INFO   - No firefox process running
+2018-04-10 14:56:40,575 [main] INFO   - path: Properties/Common/common-properties.xml
+2018-04-10 14:56:40,820 [main] DEBUG  - indexUrl :http://admin:sky@192.168.0.2/sky_index.html
+2018-04-10 14:58:04,142 [main] DEBUG  - ************Opening The Browser******************
+2018-04-10 14:59:04,142 [main] INFO   - =============================================
+2018-04-10 14:59:04,143 [main] INFO   - 
+2018-04-10 14:59:04,143 [main] INFO   - [2] ========= [ Test Case Id : GUI-SPEC-4 ]========= [ Testcase Name : Requiremnet ID :1000.0552: The product shall provide a summary status page ] =========
+2018-04-10 14:59:04,143 [main] INFO   - 
+2018-04-10 14:59:04,814 [main] INFO   -  ==== [ Test Case Id : GUI-SPEC-4 ]==== [ Testcase Name : Requiremnet ID :1000.0552: The product shall provide a summary status page ] ====PASS
+
+2018-04-10 15:37:30,116 [main] DEBUG  - Terminating processes
+2018-04-10 15:37:30,198 [main] INFO   - 27487
+2018-04-10 15:37:30,198 [main] INFO   - Trying to kill process with pid (s): [27487]
+2018-04-10 15:37:30,211 [main] INFO   - No firefox process running
+2018-04-10 15:37:30,220 [main] INFO   - 27473
+2018-04-10 15:37:30,220 [main] INFO   - Trying to kill process with pid (s): [27473]
+2018-04-10 15:37:30,230 [main] INFO   - No firefox process running
+2018-04-10 15:37:30,232 [main] INFO   - path: Properties/Common/common-properties.xml
+2018-04-10 15:37:30,464 [main] DEBUG  - indexUrl :http://admin:sky@192.168.0.2/sky_index.html
+2018-04-10 15:38:33,870 [main] DEBUG  - ************Opening The Browser******************
+2018-04-10 15:38:33,871 [main] INFO   - =============================================
+2018-04-10 15:38:33,871 [main] INFO   - 
+2018-04-10 15:38:33,871 [main] INFO   - [2] ========= [ Test Case Id : GUI-SPEC-5 ]========= [ Testcase Name : Requiremnet ID :1000.0605: The product shall present the summary status page when the product's LAN IP address is entered as a URL within a web browser ] =========
+2018-04-10 15:38:33,871 [main] INFO   - 
+2018-04-10 15:38:33,871 [main] DEBUG  - http://192.168.0.2
